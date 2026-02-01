@@ -24,6 +24,10 @@ Distribution: These top 3 boroughs account for 18.4% of the total growth, with t
 2.  Install dependencies: `pip install pandas`
 3.  Run the cleaning script: `London_Universal_Credit_Analysis.ipynb`
 
+Stat-Xplore Extraction Guide:
+Table: 'People on Universal Credit'  (This represents the "Caseload" or stock, which is the standard metric for "claims rising" over time. "Claims Made" is the flow of new applications).
+Rows (Geography): -> National - Regional - LA - OA -> London
+Columns (Time): The two distinct time points to calculate the "Rise" (January 2024 and January 2025)
 ---
 *Author: [Benjamin Mba]*
 *LinkedIn: [linkedin.com/in/benjamin-mba-42a6bb14a]*
