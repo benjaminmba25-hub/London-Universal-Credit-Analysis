@@ -18,6 +18,7 @@
     1.  **Tower Hamlets:** +10,631 claims
     2.  **Newham:** +10,428 claims
     3.  **Hackney:** +10,151 claims
+
 * **Distribution:** These top 3 boroughs account for 18.4% of the total growth, with the remaining ~82% distributed across the other 30 boroughs, indicating widespread demand.
 
 ### 💻 How to Run This Code
