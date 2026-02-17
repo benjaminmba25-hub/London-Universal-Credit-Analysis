@@ -26,7 +26,7 @@ This project explores the regional distribution of Universal Credit (UC) caseloa
 **Key Libraries:** 'Pandas' (Data Manipulation), Datetime (Temporal Scaling)
 **Reproducubility:** The Stat-Xplore Extraction Guide belown ensures analysis can be refreshed monthly as new DWP data is released
 
-### Stat-Xplore Extraction Guide:
+### Stat-Xplore Extraction Guide
 **Table:** 'People on Universal Credit'  (This represents the "Caseload" or stock, which is the standard metric for "claims rising" over time. "Claims Made" is the flow of new applications).
 Rows (Geography): -> National - Regional - LA - OA -> London
 Columns (Time): The two distinct time points to calculate the "Rise" (January 2024 and January 2025) 
