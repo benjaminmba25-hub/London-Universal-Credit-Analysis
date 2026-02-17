@@ -9,7 +9,8 @@
 * **PowerBI:** Used for Visualization.
 
 ### 📉 Visual Analysis
-*<img width="1313" height="770" alt="London_UC_Viz" src="https://github.com/user-attachments/assets/81e1f330-b3dd-4ec8-bdd1-2b2d76908276" />*
+![Recording 2026-02-17 173819](https://github.com/user-attachments/assets/0030af7e-8203-4ae0-9b97-397dfa90e627)
+
 
 ### 🔍 Analyst Insight
 * **Total Growth:** London's UC caseload increased by +169,420 claimants (16.8% YoY)
